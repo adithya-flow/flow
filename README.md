@@ -66,7 +66,7 @@ Each stage folder has its own `README.md` with a short summary, links to the not
 ## Conventions
 
 - Stage folders are numbered so they sort in learning order.
-- Notebook names are lowercase with underscores, e.g. `control_flow.ipynb`.
+- Notebook names are lowercase with underscores, e.g. `02_control_flow.ipynb`.
 - Notebooks are committed with heavy outputs cleared.
 - Commits are small and descriptive, e.g. `add lists notebook`, `notes: closures`.
 
